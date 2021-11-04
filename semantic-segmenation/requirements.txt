@@ -1,9 +1,0 @@
-matplotlib
-vispy
-torch
-numpy
-PyYAML
-imgui[glfw]
-glfw
-PyOpenGL
-pyqt5
